@@ -1,1 +1,2 @@
-# Myhub
+# PaySim-Fruad-Detection-Analysis
+This report gets a dataset from Kaggle that “simulates mobile money transactions based on a sample of real transactions extracted from one month of financial logs from a mobile money service implemented in an African country.” This dataset, called Paysim, “uses aggregated data from private datasets to generate a synthetic dataset that resembles the normal operation of transactions and injects malicious behavior to later evaluate the performance of fraud detection methods.” 
